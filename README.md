@@ -10,6 +10,8 @@ Files written in R and bash
 6. SPARK_denovo_analyses - scripts for de novo analyses in SPARK
 7. Meta_analyses_scripts - dummy script for meta-analyses
 8. pTDT_SPARK_SSC_checked - pTDT analyses in SPARK and SSC
+9. Factor_and_invarianceanalyses.R - factor and invariance analyses
+10. GCTA_ABCD_Autism_all.R - GCTA analyses using ABCD and SPARK/SSC datasets. 
 
 
 
